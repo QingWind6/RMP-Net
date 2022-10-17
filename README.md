@@ -1,7 +1,7 @@
 ## RMP-Net: A structural reparameterization and sub-pixel super-resolution based Marine Scene Segmentation Network
 ---
 
-[![Figure of RMP-Net](img/compare.png]
+<img src=img/compare.png/>
 
 
 ## Reference
